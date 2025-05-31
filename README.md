@@ -42,7 +42,7 @@ AstroBot-V2 está en constante evolución. Próximamente se implementarán:
 ## ⚙️ Instalación
 
 ```bash
-git clone https://github.com/Ado926/AstroBot-V2
+git clone https://github.com/SoySapo6/AstroBot-V2
 cd AstroBot-V2
 npm install
 npm start
